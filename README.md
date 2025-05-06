@@ -3,8 +3,7 @@
     <img src="documentation/images/lotus_logo_h.png" alt="Project Lotus Logo" width="244" />
   </a>
 </p>
-
-<h1 align="center">Project Lotus - 莲</h1>
+<h1 align="center">Project Lotus</h1>
 
 <p align="center">
   <a href="https://circleci.com/gh/filecoin-project/lotus"><img src="https://circleci.com/gh/filecoin-project/lotus.svg?style=svg"></a>
